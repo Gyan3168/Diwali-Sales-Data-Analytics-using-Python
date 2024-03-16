@@ -7,3 +7,11 @@ This project is based on Diwali Sales dataset. You can examine the dataset with 
 * Datase: Diwali Sales Data.csv
 * Libraries: Numpy, Pandas, Matplotlib and Seaborn
 
+### Learnings
+* Performed data cleaning and Manupulation.
+* Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn library.
+* Improved customer experience by identifying potencial customer across diffrent states, occupation, gender and age groups.
+* Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+  
+
+
