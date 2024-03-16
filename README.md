@@ -1,7 +1,7 @@
 # Diwali-Sales-Data-Analytics-using-Python
 Python project for Sales, Analysis and Visualization of Diwali sales data to improve customer experience and sales.
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+This project is based on Diwali Sales dataset. You can examine the dataset with different Python Libraries specifically designed to cater the need of Visualization and Analysis. and help the store understand its business growth by answering simple questions.
 
 ## Dataset and Tools Library
 * Diwali Sales Data.csv
